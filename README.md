@@ -8,7 +8,7 @@
 - 🎓 I'm currently a **12th standard** student at **DAV Public School, Bazpur**
 - 👨‍💻 I’ve been passionate about **coding since 7th grade**
 - 💡 I believe in writing clean, efficient, and scalable code
-- 🧑‍🎓 Constant learner exploring modern web technologies
+- 🧑‍🎓 Constant learner exploring modern technologies
 
 ---
 
