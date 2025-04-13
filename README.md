@@ -74,4 +74,4 @@
 
 ---
 
-> _“My goal is simple.”_ – Stephan Hawking
+> _“My goal is simple.”_ – Stephen Hawking
