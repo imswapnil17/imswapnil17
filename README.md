@@ -1,7 +1,5 @@
-<!-- Profile README for GitHub -->
-
-<h1 align="center">Hi there 👋, I'm Swapnil</h1>
-<h3 align="center">🚀 17 y/o | 💻 Aspiring Full-Stack Developer | 📚 12th Grade Student at DAV Public School, Bazpur</h3>
+<h1 align="center">Hi there , I'm Swapnil</h1>
+<h3 align="center">17 y/o | 💻 Aspiring Full-Stack Developer | 📚 12th Grade Student at DAV Public School, Bazpur</h3>
 
 ---
 
