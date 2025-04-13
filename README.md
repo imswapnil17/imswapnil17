@@ -48,6 +48,21 @@
 </p>
 
 ---
+---
+
+## 🚧 Projects In Progress
+
+### 🗓️ calendar-app
+<p>
+  A feature-rich and responsive calendar application built using <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" /> and <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />.
+</p>
+
+- ⚙️ Features like adding, editing, and viewing events
+- 🌙 Responsive and clean UI with **Tailwind CSS**
+- 🔄 Project is currently under development
+
+---
+
 
 ## 📫 Connect With Me
 
