@@ -74,4 +74,4 @@
 
 ---
 
-> _“The best way to predict the future is to create it.”_ – Abraham Lincoln
+> _“My goal is simple.”_ – Stephan Hawking
