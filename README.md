@@ -1,21 +1,22 @@
-<h1  align="left">🌠 About Me</h1>
-<div style="display:flex;"> 
-<p>
-👋 Hey, I’m Swapnil! Yadav, a soon to be full stack developer. <br>
-I am currently in 12th standard, I developed strong skills in problem solving and Web development.<br> <br>
-💻 Proficient in C, C++, JAVA, Python & Javascript. <br>
+<h1 align="left">🌠 About Me</h1>
 
-<br>
-🌐 Mastering the MERN Stack <br>
-🧠 Strengthening Data Structures & Algorithms <br>
-🚀 Building real-world projects for my portfolio
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <p>
+      👋 Hey, I’m <strong>Swapnil Yadav</strong>, a soon-to-be full stack developer.<br>
+      I am currently in 12th standard, and I've developed strong skills in problem-solving and web development.<br><br>
+      💻 Proficient in C, C++, Java, Python & JavaScript.<br><br>
+      🌐 Mastering the MERN Stack<br>
+      🧠 Strengthening Data Structures & Algorithms<br>
+      🚀 Building real-world projects for my portfolio
+    </p>
+  </div>
 
-</p>
-<p>
- <img  src="https://github-readme-stats.vercel.app/api?username=imswapnil17&show_icons=true&theme=midnight-purple&hide_title=true" />
-<p>
-
+  <div style="flex: 1; text-align: right; min-width: 250px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=imswapnil17&show_icons=true&theme=midnight-purple&hide_title=true" />
+  </div>
 </div>
+
 
 
 
