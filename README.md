@@ -1,5 +1,6 @@
 <h1  align="left">🌠 About Me</h1>
-<div style="display:flex;float:right;">
+<div style="display:flex;"> 
+<p>
 👋 Hey, I’m Swapnil! Yadav, a soon to be full stack developer. <br>
 I am currently in 12th standard, I developed strong skills in problem solving and Web development.<br> <br>
 💻 Proficient in C, C++, JAVA, Python & Javascript. <br>
@@ -9,7 +10,11 @@ I am currently in 12th standard, I developed strong skills in problem solving an
 🧠 Strengthening Data Structures & Algorithms <br>
 🚀 Building real-world projects for my portfolio
 
- <img style="float:left;" src="https://github-readme-stats.vercel.app/api?username=imswapnil17&show_icons=true&theme=midnight-purple&hide_title=true" />
+</p>
+<p>
+ <img  src="https://github-readme-stats.vercel.app/api?username=imswapnil17&show_icons=true&theme=midnight-purple&hide_title=true" />
+<p>
+
 </div>
 
 
