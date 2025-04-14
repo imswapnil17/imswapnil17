@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi there , I'm Swapnil</h1>
 <h3 align="left" float="left">17 y/o | 💻 Aspiring Full-Stack Developer | 📚 12th Grade Student at DAV Public School, Bazpur</h3>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=imswapnil17&show_icons=true&theme=radical">
-<br><br><br><br><br><br><br><br><br>
-
 ---
 ## 🧠 About Me
 
