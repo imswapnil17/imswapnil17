@@ -1,8 +1,10 @@
+
 <h1 align="center">Hi there , I'm Swapnil</h1>
-<h3 align="center">17 y/o | 💻 Aspiring Full-Stack Developer | 📚 12th Grade Student at DAV Public School, Bazpur</h3>
+<h3 align="left" float="left">17 y/o | 💻 Aspiring Full-Stack Developer | 📚 12th Grade Student at DAV Public School, Bazpur</h3>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=imswapnil17&show_icons=true&theme=radical">
+<br><br><br><br><br><br><br><br><br>
 
 ---
-
 ## 🧠 About Me
 
 - 🎓 I'm currently a **12th standard** student at **DAV Public School, Bazpur**
@@ -42,9 +44,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imswapnil17&show_icons=true&theme=github_dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imswapnil17&show_icons=true&theme=midnight-purple&hide_title=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imswapnil17&theme=github-dark-blue" />
 </p>
 
 ---
