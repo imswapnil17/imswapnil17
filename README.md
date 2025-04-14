@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi there , I'm Swapnil</h1>
 <h3 align="left" float="left">17 y/o | 💻 Aspiring Full-Stack Developer | 📚 12th Grade Student at DAV Public School, Bazpur</h3>
+
 ---
 ## 🧠 About Me
 
