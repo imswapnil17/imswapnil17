@@ -18,4 +18,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=imswapnil17&icon=0&color=1)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/imswapnil17/imswapnil17/blob/output/github-snake-dark.svg)
+<div align="center">
+  
+  ![snake gif](https://github.com/imswapnil17/imswapnil17/blob/output/github-snake-dark.svg)
+  
+</div>
