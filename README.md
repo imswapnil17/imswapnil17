@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m <strong>Swapnil Yadav</strong>, a soon-to-be full stack developer.<br><br>      I am currently in 12th standard, and I've developed strong skills in problem-solving and web development.<br><br><br>      💻 Proficient in C, C++, Java, Python & JavaScript.<br><br><br>      🌐 Mastering the MERN Stack<br><br>      🧠 Strengthening Data Structures & Algorithms<br><br>      🚀 Building real-world projects for my portfolio<br>
+👋 Hey, I’m <strong>S Yadav</strong>, a soon-to-be full stack developer.<br><br>      I am currently in 12th standard, and I've developed strong skills in problem-solving and web development.<br><br><br>      💻 Proficient in C, C++, Java, Python & JavaScript.<br><br><br>      🌐 Mastering the MERN Stack<br><br>      🧠 Strengthening Data Structures & Algorithms<br><br>      🚀 Building real-world projects for my portfolio<br>
 
 
 # 💻 Tech Stack:
